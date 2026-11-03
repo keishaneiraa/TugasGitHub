@@ -1,2 +1,3 @@
 Ini adalah file kedua.
 File ini dibuat untuk tugas praktikum Git dan GitHub.
+File ini juga telah diedit langsung melalui GitHub.
