@@ -1,3 +1,4 @@
 Ini adalah file pertama.
 File ini dibuat menggunakan repository lokal.
-File ini telah diedit langsung melalui GitHub.
+File ini telah diedit kembali melalui repository lokal.
+Perubahan ini dibuat pada branch myBranch1.
