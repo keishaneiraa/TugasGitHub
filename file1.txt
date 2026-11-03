@@ -1,2 +1,3 @@
 Ini adalah file pertama.
 File ini dibuat menggunakan repository lokal.
+File ini telah diedit langsung melalui GitHub.
